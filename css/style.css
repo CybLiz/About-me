@@ -91,10 +91,11 @@ h2{
 .presentation {
 	display: flex;
 	flex-wrap:wrap;
+	padding-top: 60px;
 	margin-left: 20px;
 	padding-left: 15px;
 	background-color: white;
-	margin: 15px;
+	/* margin: 15px; */
 	border-radius: 30px;
 }
 

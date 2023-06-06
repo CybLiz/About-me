@@ -48,6 +48,10 @@ height: 300px;
 .voyage{
 	margin: 20px;
 }
+.pass p {
+	padding: 15px;
+	margin-left: 10px;
+}
 
 .patisserie{
 	margin: 20px;
