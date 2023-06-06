@@ -28,9 +28,6 @@ header p {
 	font-size: large;
 }
 
-/* nav:hover {
-	background-color: #FFF7D4 ;
-} */
 nav {
 
 	width: 90%;
@@ -61,6 +58,9 @@ nav li {
 	text-decoration: none;
 	/* border-style: thick bold; */
 
+}
+nav li:hover {
+	background-color: #FFF7D4 ;
 }
 
 
